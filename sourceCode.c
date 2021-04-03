@@ -18,7 +18,7 @@ int main()
 	}
 	else 
     {
-    	printf("sıfırdan büyük sayi giriniz");
+    	printf("sÃ½fÃ½rdan bÃ¼yÃ¼k sayi giriniz");
     	scanf("%f",&sayi);	
         for(i=1;i<=sayi;i++)
 		{
